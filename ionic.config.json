@@ -1,0 +1,7 @@
+{
+  "name": "all-btc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

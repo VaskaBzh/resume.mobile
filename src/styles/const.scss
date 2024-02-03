@@ -1,0 +1,72 @@
+// texts constants
+@use "sass:map";
+
+$large_title: (
+    font-size: 34px,
+    line-height: 41px,
+    font-weight: 700,
+    letter-spacing: 0.374px,
+);
+
+$title_1: (
+    font-size: 28px,
+    line-height: 34px,
+    font-weight: 400,
+    letter-spacing: 0.364px,
+);
+
+$title_2: (
+    font-size: 22px,
+    line-height: 28px,
+    font-weight: 700,
+    letter-spacing: 0.35px,
+);
+
+$title_3: (
+    font-size: 20px,
+    line-height: 25px,
+    letter-spacing: 0.38px,
+    font-weight: 400,
+);
+
+$headline: (
+    font-size: 17px,
+    line-height: 22px,
+    letter-spacing: -0.408px,
+);
+
+$body: (
+    font-size: 17px,
+    line-height: 22px,
+    letter-spacing: -0.408px,
+    font-feature-settings: 'case' on,
+);
+
+$callout: (
+    font-size: 16px,
+    line-height: 21px,
+    letter-spacing: -0.32px,
+);
+
+$sub_headline: (
+    font-size: 15px,
+    line-height: 20px,
+    letter-spacing: -0.24px,
+);
+
+$foot_note: (
+    font-size: 13px,
+    line-height: 18px,
+    letter-spacing: -0.078px,
+);
+
+$caption_1: (
+    font-size: 12px,
+    line-height: 16px,
+);
+
+$caption_2: (
+    font-size: 11px,
+    line-height: 13px,
+    letter-spacing: 0.06px,
+);
